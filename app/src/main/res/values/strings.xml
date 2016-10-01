@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">创世之盾</string>
+    <string name="action_settings">Settings</string>
+    <string name="sample_device_admin_description">有了超级设备管理器，可以一键锁屏，清除数据等等</string>
+    <string name="sample_device_admin">超级设备管理器</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txt_mode" type="id" />
+    <item type="id" name="process_count" />
+    <item type="id" name="process_memory" />
+</resources>
